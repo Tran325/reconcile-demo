@@ -65,3 +65,8 @@ A multi-platform copy trading ecosystem that connects Master Traders (experience
 | |Premium|$30/month|Advanced stats, 50 copiers|
 |  | Pro| $50/month	|Priority support, unlimited copiers|
 |Copiers|Standard|$10/month	|Copy up to 5 traders|    
+
+2. Additional Monetization
+
+- **Affiliate Commissions** – Earn 10-20% of referred users’ fees.
+- **White-Label Solutions** – Sell platform access to brokers.
