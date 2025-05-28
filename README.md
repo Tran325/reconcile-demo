@@ -70,3 +70,16 @@ A multi-platform copy trading ecosystem that connects Master Traders (experience
 
 - **Affiliate Commissions** – Earn 10-20% of referred users’ fees.
 - **White-Label Solutions** – Sell platform access to brokers.
+
+## Market Potential & Growth Strategy
+
+- Target Audience: Retail traders, prop firms, crypto investors.
+
+- Projected Growth:
+  - 10,000 users → $100K+/month (conservative estimate).
+  - Expansion to institutional traders in Phase 2.
+
+- Marketing Channels:
+  - Paid ads (Facebook, Google, TradingView).
+  - Partnerships with forex/crypto brokers.
+  - Influencer collaborations (YouTube traders, Telegram signals).
