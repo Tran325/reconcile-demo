@@ -14,7 +14,14 @@ A multi-platform copy trading ecosystem that connects Master Traders (experience
   - Adds DXTrader, NinjaTrader, Tradeovate (7 total platforms).
   - Full cross-compatibility for maximum flexibility.
 2. User Segmentation
+
     | User Type    | Role | Monetization |
     |--------------|------|--------------|
     | Master Traders | Share Strategies, earn from followers | Profit-sharing, subscription fees |
     |Copiers | Automatically replicate trades | Pay for access to top traders |
+
+3. Competitive Edge Over Existing Platforms
+
+✅ Cross-Platform Copying – Unlike Bybit, eToro, or ZuluTrade (limited to their own ecosystems), this platform allows copying across different brokers & trading software.
+✅ All-in-One Dashboard – Tracks performance across MT4, MT5, Tradelocker, cTrader in one place.
+✅ Affiliate System – Incentivizes user growth through referral marketing.
