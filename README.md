@@ -54,3 +54,14 @@ A multi-platform copy trading ecosystem that connects Master Traders (experience
 |Backend (16 Methods)|Month 2|Cross-platform trade execution, APIs for MT4/MT5/cTrader|
 |Testing & Launch|Month 3|Stress testing, security audits, beta release|
 |Future Expansion|Post-Launch|Add DXTrader, NinjaTrader, Tradeovate (49 total methods)|
+
+## Revenue Model
+
+1. Subscription Plans
+
+|User Type|Plan|Price|Features|
+|---------|----|-----|--------|
+|Master Traders| Basic |$10/month |Basic analytics, 10 copiers|
+| |Premium|$30/month|Advanced stats, 50 copiers|
+|  | Pro| $50/month	|Priority support, unlimited copiers|
+|Copiers|Standard|$10/month	|Copy up to 5 traders|    
