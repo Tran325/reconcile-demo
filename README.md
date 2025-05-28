@@ -22,6 +22,6 @@ A multi-platform copy trading ecosystem that connects Master Traders (experience
 
 3. Competitive Edge Over Existing Platforms
 
-✅ Cross-Platform Copying – Unlike Bybit, eToro, or ZuluTrade (limited to their own ecosystems), this platform allows copying across different brokers & trading software.
-✅ All-in-One Dashboard – Tracks performance across MT4, MT5, Tradelocker, cTrader in one place.
-✅ Affiliate System – Incentivizes user growth through referral marketing.
+- ✅ Cross-Platform Copying – Unlike Bybit, eToro, or ZuluTrade (limited to their own ecosystems), this platform allows copying across different brokers & trading software.
+- ✅ All-in-One Dashboard – Tracks performance across MT4, MT5, Tradelocker, cTrader in one place.
+- ✅ Affiliate System – Incentivizes user growth through referral marketing.
