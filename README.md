@@ -45,3 +45,12 @@ A multi-platform copy trading ecosystem that connects Master Traders (experience
 - **Advanced Risk Management** – Circuit breakers, daily loss limits.
 - **Social Trading Features** – Chat, trader reviews, strategy insights.
 - **Affiliate & Referral Program** – Earn commissions for bringing new users.
+
+## Development Roadmap
+
+|Phase|Timeline|Key Deliverables|
+|------|------|-----------------|
+|Design & Frontend|Month 1|UI/UX, trader dashboard, copier interface|
+|Backend (16 Methods)|Month 2|Cross-platform trade execution, APIs for MT4/MT5/cTrader|
+|Testing & Launch|Month 3|Stress testing, security audits, beta release|
+|Future Expansion|Post-Launch|Add DXTrader, NinjaTrader, Tradeovate (49 total methods)|
